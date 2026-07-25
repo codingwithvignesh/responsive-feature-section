@@ -32,7 +32,7 @@ A modern and responsive feature section built using **HTML5** and **CSS3**. This
 
 ## 📸 Preview
 
-Save your project screenshot as **`screenshot_design.png`** in the root folder.
+Save your project screenshot as screenshot.png in the root folder.
 
 ```text
 responsive-feature-section/
