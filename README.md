@@ -41,9 +41,7 @@ responsive-feature-section/
 
 Then add this to your README:
 
-```markdown
 ![Responsive Feature Section](screenshot.png)
-```
 
 ---
 
